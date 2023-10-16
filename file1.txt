@@ -1,0 +1,41 @@
+ANKIT KUMAR	PATEL	112302001@smail.iitpkd.ac.in
+DAVID SHEPHERD	CHINTALA	112302002@smail.iitpkd.ac.in
+KINSHUK	KUSUM	112302003@smail.iitpkd.ac.in
+MANAS	SINGHA	112302004@smail.iitpkd.ac.in
+NITISH	RANA	112302005@smail.iitpkd.ac.in
+Pasupulati	Madhulatha	152202012@smail.iitpkd.ac.in
+RAHUL	RADHAKRISHNAN	112302006@smail.iitpkd.ac.in
+SARAYU MITHTHIRA	V C	112302007@smail.iitpkd.ac.in
+SHREYOJIT	DAS	112302008@smail.iitpkd.ac.in
+Zahir	Khan	112202010@smail.iitpkd.ac.in
+1,13c1,2
+< Pasupulati	Madhulatha	152202012@smail.iitpkd.ac.in
+< Zahir	Khan	112202010@smail.iitpkd.ac.in
+< ANKIT KUMAR	PATEL	112302001@smail.iitpkd.ac.in
+< DAVID SHEPHERD	CHINTALA	112302002@smail.iitpkd.ac.in
+< Pasupulati	Madhulatha	152202012@smail.iitpkd.ac.in
+< KINSHUK	KUSUM	112302003@smail.iitpkd.ac.in
+< MANAS	SINGHA	112302004@smail.iitpkd.ac.in
+< SARAYU MITHTHIRA	V C	112302007@smail.iitpkd.ac.in
+< NITISH	RANA	112302005@smail.iitpkd.ac.in
+< RAHUL	RADHAKRISHNAN	112302006@smail.iitpkd.ac.in
+< NITISH	RANA	112302005@smail.iitpkd.ac.in
+< SARAYU MITHTHIRA	V C	112302007@smail.iitpkd.ac.in
+< SHREYOJIT	DAS	112302008@smail.iitpkd.ac.in
+---
+> 
+> ,
+1,10c1,2
+< ANKIT KUMAR	PATEL	112302001@smail.iitpkd.ac.in
+< DAVID SHEPHERD	CHINTALA	112302002@smail.iitpkd.ac.in
+< KINSHUK	KUSUM	112302003@smail.iitpkd.ac.in
+< MANAS	SINGHA	112302004@smail.iitpkd.ac.in
+< NITISH	RANA	112302005@smail.iitpkd.ac.in
+< Pasupulati	Madhulatha	152202012@smail.iitpkd.ac.in
+< RAHUL	RADHAKRISHNAN	112302006@smail.iitpkd.ac.in
+< SARAYU MITHTHIRA	V C	112302007@smail.iitpkd.ac.in
+< SHREYOJIT	DAS	112302008@smail.iitpkd.ac.in
+< Zahir	Khan	112202010@smail.iitpkd.ac.in
+---
+> 
+> ,
